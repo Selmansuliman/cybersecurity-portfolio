@@ -57,7 +57,7 @@ I’ve led and contributed to large-scale cybersecurity initiatives in governmen
 ## 📂 Featured Projects (Public Portfolio)
 
 
-### 🔹 **Government Secure Network Architecture**  
+### 🔹 **Government Secure Network Security Solution**  
 High-level defense-in-depth architecture for national secure networks.  
 🔗 https://github.com/SelmanSuliman/gov-secure-network-architecture *(placeholder)*  
 
