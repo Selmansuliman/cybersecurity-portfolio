@@ -4,7 +4,7 @@
 <!-- ===================================================================== -->
 
 <p align="center">
-  <img src="https://github.com/Selmansuliman/images/blob/main/cybersecurity.jpg" width="100%" alt="cyberpunk neon grid">
+  <img src="https://github.com/Selmansuliman/images/blob/main/cybersecurity.jpg" width="150%" alt="cyberpunk neon grid">
 </p>
 
 <h1 align="center">
