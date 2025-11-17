@@ -56,7 +56,6 @@ I’ve led and contributed to large-scale cybersecurity initiatives in governmen
 
 ## 📂 Featured Projects (Public Portfolio)
 
-> ⚠️ الروابط أدناه مؤقتة — قم بتعديلها لاحقًا بعد رفع المشاريع.
 
 ### 🔹 **Government Secure Network Architecture**  
 High-level defense-in-depth architecture for national secure networks.  
