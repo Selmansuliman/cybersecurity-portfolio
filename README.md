@@ -1,119 +1,118 @@
-# cybersecurity-portfolio
-Cybersecurity Portfolio by Selman Suliman
-<h1 align="center">👋 Hi, I'm <span style="color:#00b7ff">Selman Suliman</span></h1>
+<h1 align="center">👋 Welcome, I'm <span style="color:#00b7ff">Selman Suliman</span></h1>
 
 <p align="center">
-  <b>Senior Cybersecurity Expert • Information Security Governance • Digital Forensics • Incident Response • Threat Management</b><br>
-  <b>14+ Years Securing National Critical Infrastructure</b>
+  <b>Senior Cybersecurity Expert</b> • Incident Response • Digital Forensics • Governance & Risk • National Cyber Defense  
+  <br>
+  <b>14+ Years Securing Government & Critical Infrastructure</b>
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I am a **Senior Cybersecurity Expert** with more than **14 years of hands-on experience** securing national-level infrastructure, developing security governance frameworks, leading CERT operations, performing digital forensics, incident response, penetration testing, and building cybersecurity strategies for government environments.
+I am a cybersecurity professional with more than **14 years of hands-on and strategic experience**, specializing in:
 
-My background spans technical, operational, and executive-level cybersecurity functions, including:
-- National cyber defense operations  
-- SOC/SIEM leadership  
-- Incident response & threat intelligence  
-- Digital forensics and cybercrime investigations  
-- Penetration testing & vulnerability management  
-- Security governance, auditing, and compliance  
-- Cybersecurity awareness & capability building  
-- Risk assessment & threat modeling  
-- Managing and training cybersecurity teams
+- National cyber defense & secure infrastructure design  
+- Security operations, SIEM engineering, and SOC leadership  
+- Digital forensics & cybercrime investigations  
+- Incident response & threat hunting  
+- Risk assessment & security governance  
+- Vulnerability management & penetration testing  
+- Security awareness development & capability building  
+- Designing enterprise-level cybersecurity programs  
 
-I have led multiple large-scale security initiatives at the national authority level and contributed to strategic cybersecurity development and regulatory enhancement.
+I’ve led and contributed to large-scale cybersecurity initiatives in government environments, developing secure architectures, conducting high-priority investigations, and supporting national-level cyber resilience.
 
 ---
 
-## 🚀 Core Competencies
+## 🚀 Key Strengths
 
-### 🌀 Security Operations & Incident Response
-- SIEM engineering & SOC leadership  
-- Threat hunting & intelligence  
-- Digital forensics (disk, memory, log analysis)  
-- Malware behavior investigation  
-- MITRE ATT&CK–aligned response workflows  
-
-### 🧩 Security Governance & Compliance
-- ISO 27001/27005/27002 implementation  
-- NIST Cybersecurity Framework  
-- COBIT5, GCI standards  
-- Policy development & security auditing  
-- Risk assessment & controls design  
-
-### 🎯 Penetration Testing & Vulnerability Assessment
-- Red teaming fundamentals  
-- Network, web, and infrastructure pentesting  
-- Tools: Kali Linux, Metasploit, Burp Suite, Wireshark, SQLmap, Nmap  
-
-### 🧠 Additional Strengths
-- Security awareness program design  
-- Leadership & team development  
-- Problem-solving & decision-making in high-risk environments  
-- Strong documentation & communication skills  
+- **Incident Response & SOC Operations**  
+- **SIEM engineering (ELK, Wazuh, Splunk)**  
+- **Threat Intelligence & MITRE ATT&CK Analysis**  
+- **Malware Analysis — Static & Dynamic**  
+- **Digital Forensics (memory, disk, logs)**  
+- **ISO 27001, NIST CSF, COBIT5 governance**  
+- **Penetration Testing & Red Team fundamentals**  
+- **Risk Management & Security Audits**
 
 ---
 
-## 🧰 Tech & Tools Expertise
+## 🧰 Technical Toolbox
 
-**Cybersecurity Tools:**  
-`SIEM` • `IDS/IPS` • `Firewalls` • `Wazuh` • `ELK`  
+**Cyber Defense:**  
+`SOC/SIEM` • `Wazuh` • `ELK` • `IDS/IPS` • `Firewalls`  
 
-**Pentest & VA Tools:**  
-`Metasploit` • `Nmap` • `Burp Suite` • `Kali Linux` • `Nessus` • `SQLmap`  
+**Pentesting:**  
+`Kali Linux` • `Burp Suite` • `Nmap` • `Metasploit` • `SQLmap`  
 
-**Forensics Tools:**  
-`FTK` • `Autopsy` • `Volatility` • `Log2Timeline`  
+**Digital Forensics:**  
+`Autopsy` • `FTK` • `Volatility` • `Log2Timeline`  
 
-**Frameworks:**  
-`ISO 27001` • `NIST` • `MITRE ATT&CK` • `COBIT5`  
+**Governance Frameworks:**  
+`ISO 27001` • `ISO 27005` • `NIST CSF` • `COBIT`  
 
 ---
 
-## 🧿 Highlight Projects (To Be Published Soon)
+## 📂 Featured Projects (Public Portfolio)
 
-### 🔹 Government Secure Network Protection Architecture  
-Designing, hardening, and documenting defense-in-depth for a national-level secure network.
+> ⚠️ الروابط أدناه مؤقتة — قم بتعديلها لاحقًا بعد رفع المشاريع.
 
-### 🔹 Digital Forensics & IR Toolkit  
-Custom workflows, memory analysis procedures, forensic acquisition steps, and chain-of-custody templates.
+### 🔹 **Government Secure Network Architecture**  
+High-level defense-in-depth architecture for national secure networks.  
+🔗 https://github.com/SelmanSuliman/gov-secure-network-architecture *(placeholder)*  
 
-### 🔹 Security Awareness Framework  
-Complete set of awareness modules, delivery structure, and measurement KPIs.
+### 🔹 **Digital Forensics Toolkit**  
+Scripts, acquisition workflows, memory analysis procedures.  
+🔗 https://github.com/SelmanSuliman/digital-forensics-toolkit *(placeholder)*  
 
-### 🔹 Risk Assessment Framework  
-Customized risk methodology aligned with ISO 27005 and NIST SP 800-30.
+### 🔹 **Incident Response Framework**  
+Complete IR structure with playbooks, SLA matrix, escalation paths.  
+🔗 https://github.com/SelmanSuliman/incident-response-framework *(placeholder)*  
 
-### 🔹 Penetration Testing Methodology  
-Full process documentation, scripts, and reporting templates.
+### 🔹 **Cybersecurity Governance Templates**  
+Policies, audit checklists, and governance models.  
+🔗 https://github.com/SelmanSuliman/cybersecurity-governance *(placeholder)*  
 
-### 🔹 Malware Analysis Lab  
-Static & dynamic analysis environment with behavior profiling techniques.
+### 🔹 **Malware Analysis Lab**  
+YARA rules, sandbox guidelines, and analysis reports.  
+🔗 https://github.com/SelmanSuliman/malware-analysis-lab *(placeholder)*  
+
+### 🔹 **Pentest Methodology**  
+A structured, report-ready penetration testing methodology.  
+🔗 https://github.com/SelmanSuliman/pentest-methodology *(placeholder)*  
+
+### 🔹 **Risk Assessment Framework**  
+ISO 27005–aligned risk assessment templates and guides.  
+🔗 https://github.com/SelmanSuliman/risk-assessment-framework *(placeholder)*  
+
+---
+
+## 🌐 Portfolio Website
+
+A full dark-themed cybersecurity portfolio built using static HTML/CSS.  
+🔗 https://selmansuliman.github.io *(placeholder — will work once you publish)*  
 
 ---
 
 ## 📜 Certifications
 
-- **CISM — Certified Information Security Manager**  
-- **CRISC — Risk and Information Systems Control**  
-- **CISA — Certified Information Systems Auditor**  
+- **CISM** – Certified Information Security Manager  
+- **CRISC**  
+- **CISA**  
 - **CCNA Security**  
-- **Ethical Hacking & Penetration Testing**  
 - **Digital Forensics (India)**  
-- Specialized cybersecurity & SIEM training programs  
+- **Ethical Hacking & Penetration Testing**  
+- Advanced cybersecurity & SOC training programs  
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect with Me
 
-📧 **Email:** sasassasa66@gmail.com  
+📧 **Email:** [sasassasa66@gmail.com](mailto:sasassasa66@gmail.com)  
 🔗 **LinkedIn:** https://www.linkedin.com/in/selman-suliman  
-🌍 **GitHub Pages Portfolio:** *Coming Soon*  
-📍 Based in Damascus, Syria  
+🌍 **GitHub:** https://github.com/SelmanSuliman  
 
 ---
 
-<h3 align="center">✨ Cybersecurity is my mission — not just my profession.</h3>
+<h3 align="center">🔥 Cybersecurity is my mission — not just my profession.</h3>
