@@ -59,7 +59,7 @@ I’ve led and contributed to large-scale cybersecurity initiatives in governmen
 
 ### 🔹 **Government Secure Network Security Solution**  
 High-level defense-in-depth architecture for national secure networks.  
-🔗 https://github.com/SelmanSuliman/gov-secure-network-architecture *(placeholder)*  
+🔗 https://github.com/Selmansuliman/gov-secure-network-Project 
 
 ### 🔹 **Digital Forensics Toolkit**  
 Scripts, acquisition workflows, memory analysis procedures.  
