@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <b style="color:#00ff9d">DFIR • Incident Response • Threat Analysis • Cyber Defense • Governance</b>
+  <b style="color:#00ff9d">Information Security | Cyber Security | Governance | SOC & CERT Leadership | Risk & Compliance & Penetration Testing</b>
 </p>
 
 <br>
