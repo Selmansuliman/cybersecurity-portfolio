@@ -11,10 +11,6 @@
   <span style="color:#00eaff; font-size:40px;">⚡ SELMAN SULIMAN ⚡</span>
 </h1>
 
-<h3 align="center">
-  <span style="color:#ff00ff">AI-Enhanced Cybersecurity Architect</span>  
-</h3>
-
 <p align="center">
   <b style="color:#00ff9d">DFIR • Incident Response • Threat Analysis • Cyber Defense • Governance</b>
 </p>
