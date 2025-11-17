@@ -21,9 +21,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://i.imgur.com/UfB9xXf.gif" width="220" alt="AI Eye Scanner">
-</p>
+
 
 <p align="center" style="font-size:16px; color:#a8f0ff;">
   <i>“Initializing human profile…  
