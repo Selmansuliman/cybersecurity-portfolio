@@ -34,7 +34,7 @@
 
 ---
 
-# 🧬 Bio — AI-Generated Summary
+# 🧬 Bio — Summary
 
 I am an AI-driven **Senior Cybersecurity Expert** with more than **14 years** securing  
 government systems, critical infrastructure, and intelligence-sensitive networks.
@@ -50,7 +50,7 @@ My expertise spans:
 
 ---
 
-# ⚡ AI-Enhanced Skill Grid
+# ⚡ Skill Grid
 
 ```
 Incident Response ............ 97%
@@ -65,9 +65,8 @@ Penetration Testing .......... 84%
 ---
 
 # 🚀 Featured Cyber Projects  
-(Placeholder links)
 
-- https://github.com/SelmanSuliman/gov-secure-network-architecture  
+- https://github.com/Selmansuliman/gov-secure-network-Project  
 - https://github.com/SelmanSuliman/digital-forensics-toolkit  
 - https://github.com/SelmanSuliman/incident-response-framework  
 - https://github.com/SelmanSuliman/malware-analysis-lab  
