@@ -1,7 +1,5 @@
 
-<!-- ===================================================================== -->
-<!--                CYBERPUNK NEON / AI SYSTEM LOADING SCREEN              -->
-<!-- ===================================================================== -->
+
 
 <p align="center">
   <img src="https://github.com/Selmansuliman/images/blob/main/cybersecurity.jpg" width="150%" alt="cyberpunk neon grid">
@@ -19,12 +17,7 @@
 
 
 
-<p align="center" style="font-size:16px; color:#a8f0ff;">
-  <i>“Initializing human profile…  
-  Cyber-Expert detected…  
-  Access level: National Cyber Defense  
-  Neural analytics: VERIFIED”</i>
-</p>
+
 
 ---
 
