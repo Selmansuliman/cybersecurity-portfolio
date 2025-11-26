@@ -1,10 +1,7 @@
-
-
-![cybersecurity](https://raw.githubusercontent.com/Selmansuliman/images/main/cybersecurity.jpg)
-
 <p align="center">
-  <img src="https://github.com/Selmansuliman/images/blob/main/cybersecurity.jpg" width="150%" ">
+  <img src="https://raw.githubusercontent.com/Selmansuliman/images/main/cybersecurity.jpg" width="80%">
 </p>
+
 
 <h1 align="center">
   <span style="color:#00eaff; font-size:40px;">⚡ SELMAN SULIMAN ⚡</span>
