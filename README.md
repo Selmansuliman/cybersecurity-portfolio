@@ -1,3 +1,4 @@
+<!-- Removed main title -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Selmansuliman/images/main/cybersecurity.jpg" width="80%">
 </p>
